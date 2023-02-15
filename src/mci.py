@@ -1,4 +1,4 @@
-# AUTHOR: Bram Pulles
+# AUTHOR: Borroot
 # Monte Carlo integration visualised
 # Using (b-a)/N * sum_i^N f(x_i) ~= integral_a^b f(x) dx
 
